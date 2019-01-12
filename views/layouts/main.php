@@ -37,6 +37,9 @@ LtAppAsset::register($this);
       </div>
     </div>
     <div class="page">
+
+        <?= \app\components\MenuWidget::widget(['tpl' => 'menu'])?>
+
       <!-- Page Header-->
       <header class="section page-header">
         <!-- RD Navbar-->
