@@ -1,0 +1,20 @@
+Host: http://manikuria.ru
+
+User-agent: Yandex
+Disallow: /js
+Disallow: /css
+
+
+
+User-agent: Mediapartners-Google
+Disallow: /js
+Disallow: /css
+
+
+
+User-agent: *
+Disallow: /js
+Disallow: /css
+
+
+Sitemap: http://manikuria.ru/sitemap.xml
